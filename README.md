@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2>🔭 I’m currently working with these languages & technologies: </h2>
 
 <ul>
-  <li style='display: flex;'><img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' /> TypeScript</li>
+  <li styles='display: flex;'><img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' /> TypeScript</li>
   <li>ReactJS</li>
   <li>NodeJs</li>
   <li>Redux</li>
