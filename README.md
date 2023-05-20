@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DD149&background=FF8C4300&width=435&lines=Front-end+React+dev+in+Sravni" alt="Typing SVG" /></a>
+<h3>:computer: Working on both Client and Server side tasks: </h3>
+  
+<ul>
+  <li>:test_tube: Implementing new features</li>
+  <li>:warning: Fixing bugs</li>
+  <li>:hammer_and_wrench: Refactoring code</li>
+  <li>:rocket: Monitorings performance and work stability of Project via logs and alerts</li>
+  <li>:microscope: Performing code review</li>
+</ul>
 
 <h3>:gear: In my work I'm currently using these languages & technologies: </h3>
 
