@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <li>:microscope: Performing code review</li>
 </ul>
 
-<h3>:gear: In my work I'm currently using these languages & technologies: </h3>
+<h3>:gear: In my work I'm currently using these technologies: </h3>
 
 <ul>
   <li><img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' /></li>
