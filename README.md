@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <li>:test_tube: Implementing new features</li>
   <li>:warning: Fixing bugs</li>
   <li>:hammer_and_wrench: Refactoring code</li>
-  <li>:rocket: Monitoring performance and stability of team's Apps via logs and alerts</li>
+  <li>:rocket: Monitoring performance and stability of our team Apps using logs and alerts</li>
   <li>:microscope: Performing code review</li>
 </ul>
 
