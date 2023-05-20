@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DD149&background=FF8C4300&width=435&lines=Front-end+React+dev+in+Sravni" alt="Typing SVG" /></a>
 
-<h3>🔭 In my work I'm currently using these languages & technologies: </h3>
+<h3>:gear: In my work I'm currently using these languages & technologies: </h3>
 
 <ul>
   <li><img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' /></li>
