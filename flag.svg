@@ -6,7 +6,7 @@
     <div class='body'>
       <div class='container'>
         <div class='flag'>
-          <div class='column' style='animation-delay: 50ms;'></div>
+          <div class='column' style='animation-delay: 50ms'></div>
           <div class='column' style='animation-delay: 100ms'></div>
           <div class='column' style='animation-delay: 150ms'></div>
           <div class='column' style='animation-delay: 200ms'></div>
