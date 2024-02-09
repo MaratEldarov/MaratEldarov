@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="flag.svg" style="width: 100%; transform: scale(0.8);">
+  <img src="flag.svg" style="width: 100%;">
 </div>
 
 <!--
