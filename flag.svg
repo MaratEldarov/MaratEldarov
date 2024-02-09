@@ -6,26 +6,7 @@
     <div class='body'>
       <div class='container'>
         <div class='flag'>
-          <div class='column' style='animation-delay: 50ms'></div>
-          <div class='column' style='animation-delay: 100ms'></div>
-          <div class='column' style='animation-delay: 150ms'></div>
-          <div class='column' style='animation-delay: 200ms'></div>
-          <div class='column' style='animation-delay: 250ms'></div>
-          <div class='column' style='animation-delay: 300ms'></div>
-          <div class='column' style='animation-delay: 350ms'></div>
-          <div class='column' style='animation-delay: 400ms'></div>
-          <div class='column' style='animation-delay: 450ms'></div>
-          <div class='column' style='animation-delay: 500ms'></div>
-          <div class='column' style='animation-delay: 550ms'></div>
-          <div class='column' style='animation-delay: 600ms'></div>
-          <div class='column' style='animation-delay: 650ms'></div>
-          <div class='column' style='animation-delay: 700ms'></div>
-          <div class='column' style='animation-delay: 750ms'></div>
-          <div class='column' style='animation-delay: 800ms'></div>
-          <div class='column' style='animation-delay: 850ms'></div>
-          <div class='column' style='animation-delay: 900ms'></div>
-          <div class='column' style='animation-delay: 950ms'></div>
-          <div class='column' style='animation-delay: 1000ms'></div>
+          FFFFF
         </div>
       </div>
     </div>
