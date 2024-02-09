@@ -1,7 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/MaratEldarov/MaratEldarov/blame/main/flag">
-    <img src="flag.svg" style="width: 100%;">
-  </a>
+  <img src="flag.svg" style="width: 100%;">
 </div>
 
 <!--
