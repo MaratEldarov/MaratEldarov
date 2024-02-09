@@ -23,6 +23,7 @@
 
       .flag {
         display: flex;
+        justify-content: flex-start;
         width: 320px;
         height: 205px;
       }
