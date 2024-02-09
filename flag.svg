@@ -22,7 +22,6 @@
 
       .flag {
         display: flex;
-        aspect-ratio: 3 / 2;
         width: 300px;
         height: 200px;
       }
